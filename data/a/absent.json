@@ -1,0 +1,31 @@
+{
+  "word": "absent",
+  "phonetic": "/ˈæbsənt/",
+  "part_of_speech": ["adjective", "verb"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Not present in a place or situation",
+        "example": "She was absent from school today."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To stay away or remove oneself from a place",
+        "example": "He absented himself from the meeting."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "absent",
+    "past": "absented",
+    "past_participle": "absented",
+    "present_participle": "absenting",
+    "third_person": "absents"
+  },
+  "synonyms": ["missing", "away", "nonexistent"],
+  "antonyms": ["present", "available"],
+  "usage_examples": [
+    "Several students were absent due to illness."
+  ]
+}

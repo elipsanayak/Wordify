@@ -1,0 +1,35 @@
+{
+  "word": "account",
+  "phonetic": "/əˈkaʊnt/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A record or statement of financial expenditure or receipts",
+        "example": "She checked her bank account online."
+      },
+      {
+        "definition": "A report or description of an event or experience",
+        "example": "He gave a detailed account of the accident."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To consider or regard in a specified way",
+        "example": "He accounts himself lucky to have survived."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "account",
+    "past": "accounted",
+    "past_participle": "accounted",
+    "present_participle": "accounting",
+    "third_person": "accounts"
+  },
+  "synonyms": ["report", "record", "narrative", "consider"],
+  "antonyms": ["ignore", "overlook"],
+  "usage_examples": [
+    "Please account for all expenses before submitting the report."
+  ]
+}

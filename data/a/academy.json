@@ -1,0 +1,23 @@
+{
+  "word": "academy",
+  "phonetic": "/əˈkædəmi/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A place of study or training in a special field",
+        "example": "She enrolled in a music academy to improve her skills."
+      },
+      {
+        "definition": "A society or institution for the advancement of art, literature, or science",
+        "example": "The academy awarded him a prize for his contributions to literature."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["institution", "school", "college", "society"],
+  "antonyms": ["ignorance", "illiteracy"],
+  "usage_examples": [
+    "He graduated from a prestigious academy."
+  ]
+}

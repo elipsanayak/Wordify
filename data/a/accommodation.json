@@ -1,0 +1,23 @@
+{
+  "word": "accommodation",
+  "phonetic": "/əˌkɒməˈdeɪʃən/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A place where someone can live or stay",
+        "example": "The hotel offers comfortable accommodation for guests."
+      },
+      {
+        "definition": "The process of adjusting or adapting to meet needs",
+        "example": "The company made accommodations for employees with disabilities."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["lodging", "housing", "residence", "adaptation"],
+  "antonyms": ["homelessness", "discomfort"],
+  "usage_examples": [
+    "Students need affordable accommodation near the university."
+  ]
+}

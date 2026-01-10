@@ -1,0 +1,19 @@
+{
+  "word": "abiogenesis",
+  "phonetic": "/ˌeɪbaɪoʊˈdʒɛnəsɪs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The theory that living organisms can arise from non-living matter",
+        "example": "Abiogenesis explains how life may have originated on Earth."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["spontaneous generation", "origin of life"],
+  "antonyms": ["biogenesis"],
+  "usage_examples": [
+    "Scientists study abiogenesis to understand the beginnings of life."
+  ]
+}

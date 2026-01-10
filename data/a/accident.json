@@ -1,0 +1,23 @@
+{
+  "word": "accident",
+  "phonetic": "/ˈæksɪdənt/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An unfortunate event that happens unexpectedly and unintentionally",
+        "example": "He broke his arm in a car accident."
+      },
+      {
+        "definition": "Something that happens by chance rather than intention",
+        "example": "Meeting her at the café was a happy accident."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["mishap", "crash", "incident", "chance event"],
+  "antonyms": ["intention", "plan"],
+  "usage_examples": [
+    "The accident caused a traffic jam for hours."
+  ]
+}

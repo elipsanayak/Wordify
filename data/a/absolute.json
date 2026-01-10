@@ -1,0 +1,25 @@
+{
+  "word": "absolute",
+  "phonetic": "/ˈæbsəluːt/",
+  "part_of_speech": ["adjective", "noun"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Complete and total; not limited or conditional",
+        "example": "She had absolute confidence in her decision."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Something that is complete or perfect in itself",
+        "example": "Freedom is often treated as an absolute."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["complete", "total", "unconditional"],
+  "antonyms": ["partial", "relative", "limited"],
+  "usage_examples": [
+    "The ruler had absolute power."
+  ]
+}

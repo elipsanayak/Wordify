@@ -1,0 +1,37 @@
+{
+  "word": "abstract",
+  "phonetic": "/ˈæbstrækt/",
+  "part_of_speech": ["adjective", "noun", "verb"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Existing in thought or as an idea but not having a physical or concrete existence",
+        "example": "He had an abstract idea of what happiness meant."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A summary of the contents of a book, article, or speech",
+        "example": "The paper included an abstract at the beginning."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To consider something theoretically or separately from something else",
+        "example": "She abstracted the key points from the report."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "abstract",
+    "past": "abstracted",
+    "past_participle": "abstracted",
+    "present_participle": "abstracting",
+    "third_person": "abstracts"
+  },
+  "synonyms": ["conceptual", "theoretical", "summarize", "extract"],
+  "antonyms": ["concrete", "specific", "practical"],
+  "usage_examples": [
+    "His paintings are abstract and open to interpretation."
+  ]
+}

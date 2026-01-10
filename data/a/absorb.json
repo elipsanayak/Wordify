@@ -1,0 +1,25 @@
+{
+  "word": "absorb",
+  "phonetic": "/əbˈzɔːrb/",
+  "part_of_speech": ["verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To take in or soak up a substance, energy, or information",
+        "example": "A sponge can absorb water easily."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "absorb",
+    "past": "absorbed",
+    "past_participle": "absorbed",
+    "present_participle": "absorbing",
+    "third_person": "absorbs"
+  },
+  "synonyms": ["soak up", "take in", "assimilate"],
+  "antonyms": ["release", "emit"],
+  "usage_examples": [
+    "Plants absorb sunlight to make food."
+  ]
+}

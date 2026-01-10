@@ -1,0 +1,19 @@
+{
+  "word": "abject",
+  "phonetic": "/ˈæbdʒekt/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Extremely bad, unpleasant, or degrading",
+        "example": "They lived in abject poverty."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["miserable", "wretched", "degrading"],
+  "antonyms": ["noble", "excellent", "comfortable"],
+  "usage_examples": [
+    "The refugees were left in abject conditions."
+  ]
+}

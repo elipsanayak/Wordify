@@ -1,0 +1,19 @@
+{
+  "word": "acne",
+  "phonetic": "/ˈækni/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A skin condition that causes spots and pimples, especially on the face, back, and chest",
+        "example": "Teenagers often suffer from acne during puberty."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["pimples", "blemishes", "zits", "spots"],
+  "antonyms": ["clear skin"],
+  "usage_examples": [
+    "Using a gentle cleanser can help reduce acne."
+  ]
+}

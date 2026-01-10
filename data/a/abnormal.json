@@ -1,0 +1,19 @@
+{
+  "word": "abnormal",
+  "phonetic": "/æbˈnɔːrməl/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Different from what is usual, typical, or expected",
+        "example": "The doctor noticed an abnormal heartbeat."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["unusual", "irregular", "atypical"],
+  "antonyms": ["normal", "usual", "typical"],
+  "usage_examples": [
+    "Abnormal behavior was reported during the experiment."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "ability",
+  "phonetic": "/əˈbɪləti/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The power or skill to do something",
+        "example": "She has the ability to solve complex problems."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["skill", "capability", "talent"],
+  "antonyms": ["inability", "weakness"],
+  "usage_examples": [
+    "His ability to communicate clearly impressed everyone."
+  ]
+}

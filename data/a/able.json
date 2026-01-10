@@ -1,0 +1,19 @@
+{
+  "word": "able",
+  "phonetic": "/ˈeɪbəl/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Having the power, skill, or means to do something",
+        "example": "She is able to finish the task on time."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["capable", "competent", "skilled"],
+  "antonyms": ["unable", "incapable"],
+  "usage_examples": [
+    "He was able to solve the problem quickly."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "word": "accurate",
+  "phonetic": "/ˈækjərət/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Correct, precise, and free from errors",
+        "example": "The scientist provided accurate measurements for the experiment."
+      },
+      {
+        "definition": "Exactly matching a particular standard or truth",
+        "example": "Her description of the event was accurate."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["precise", "exact", "correct", "true"],
+  "antonyms": ["inaccurate", "wrong", "imprecise"],
+  "usage_examples": [
+    "It is important to use accurate data in research."
+  ]
+}

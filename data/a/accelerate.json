@@ -1,0 +1,29 @@
+{
+  "word": "accelerate",
+  "phonetic": "/əkˈseləreɪt/",
+  "part_of_speech": ["verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To increase speed or make something happen faster",
+        "example": "The car accelerated quickly on the highway."
+      },
+      {
+        "definition": "To cause a process or action to happen sooner",
+        "example": "The new policy will accelerate economic growth."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "accelerate",
+    "past": "accelerated",
+    "past_participle": "accelerated",
+    "present_participle": "accelerating",
+    "third_person": "accelerates"
+  },
+  "synonyms": ["hasten", "speed up", "quicken"],
+  "antonyms": ["slow", "decelerate", "delay"],
+  "usage_examples": [
+    "Technological advances accelerate the pace of modern life."
+  ]
+}
