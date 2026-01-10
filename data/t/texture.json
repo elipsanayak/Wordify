@@ -1,0 +1,35 @@
+{
+  "word": "texture",
+  "phonetic": "/ˈtɛk.stʃər/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The feel, appearance, or consistency of a surface or substance",
+        "example": "The fabric has a soft texture."
+      },
+      {
+        "definition": "The visual or tactile quality in art, music, or literature",
+        "example": "The painting has a rich texture."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To give a particular surface quality or pattern to something",
+        "example": "The artist textured the canvas using different brushes."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "texture",
+    "past": "textured",
+    "past_participle": "textured",
+    "present_participle": "texturing",
+    "third_person": "textures"
+  },
+  "synonyms": ["feel", "surface", "grain", "pattern"],
+  "antonyms": ["smoothness", "flatness"],
+  "usage_examples": [
+    "The chef added spices to texture the dish."
+  ]
+}

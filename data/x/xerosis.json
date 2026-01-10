@@ -1,0 +1,19 @@
+{
+  "word": "xerosis",
+  "phonetic": "/zɪˈroʊ.sɪs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "Abnormal dryness of the skin, eyes, or other tissues",
+        "example": "Xerosis of the skin can cause itching and flaking."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dryness", "xerasia", "xeroderma"],
+  "antonyms": ["hydration", "moisture"],
+  "usage_examples": [
+    "Using a moisturizer regularly can help prevent xerosis."
+  ]
+}

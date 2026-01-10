@@ -1,0 +1,23 @@
+{
+  "word": "xenogenous",
+  "phonetic": "/zɪˈnɒdʒ.ə.nəs/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Originating from a foreign or external source",
+        "example": "The disease was caused by a xenogenous agent."
+      },
+      {
+        "definition": "Derived from a different species or outside the organism",
+        "example": "Xenogenous materials were used in the medical procedure."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["foreign", "external", "alien"],
+  "antonyms": ["endogenous", "internal"],
+  "usage_examples": [
+    "The body may reject xenogenous tissue after transplantation."
+  ]
+}

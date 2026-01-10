@@ -1,0 +1,23 @@
+{
+  "word": "tooth",
+  "phonetic": "/tuːθ/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "One of the hard, white structures in the mouth used for biting and chewing",
+        "example": "She brushed her tooth carefully."
+      },
+      {
+        "definition": "A projecting part on a tool or machine, such as a saw or gear",
+        "example": "The gear tooth was damaged."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["fang", "molar"],
+  "antonyms": [],
+  "usage_examples": [
+    "He went to the dentist because of a toothache."
+  ]
+}

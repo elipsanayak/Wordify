@@ -1,0 +1,23 @@
+{
+  "word": "theory",
+  "phonetic": "/ˈθɪə.ri/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A system of ideas intended to explain something based on principles and reasoning",
+        "example": "Einstein's theory of relativity changed our understanding of physics."
+      },
+      {
+        "definition": "An idea or set of ideas meant to explain a phenomenon, not yet proven",
+        "example": "There are many theories about the origin of the universe."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["hypothesis", "principle", "concept", "idea"],
+  "antonyms": ["fact", "reality"],
+  "usage_examples": [
+    "The scientist presented her theory at the conference."
+  ]
+}

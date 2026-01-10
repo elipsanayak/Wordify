@@ -1,0 +1,19 @@
+{
+  "word": "xerography",
+  "phonetic": "/ˌzɪr.əˈɡræf.i/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A dry photocopying technique in which images are reproduced using electrostatic charges",
+        "example": "Xerography is commonly used in photocopiers and laser printers."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["photocopying", "dry copying", "electrostatic printing"],
+  "antonyms": ["manual copying", "wet copying"],
+  "usage_examples": [
+    "The office installed a new xerography machine for faster document reproduction."
+  ]
+}

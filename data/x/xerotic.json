@@ -1,0 +1,19 @@
+{
+  "word": "xerotic",
+  "phonetic": "/zɪˈrɒt.ɪk/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Relating to or characterized by abnormal dryness, especially of the skin or eyes",
+        "example": "The patient was diagnosed with xerotic skin requiring moisturizing treatment."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dry", "xerotic", "xerotic-skin"],
+  "antonyms": ["hydrated", "moist"],
+  "usage_examples": [
+    "Xerotic conditions are common in winter due to low humidity."
+  ]
+}

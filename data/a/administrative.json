@@ -1,0 +1,19 @@
+{
+  "word": "administrative",
+  "phonetic": "/ədˈmɪn.ɪ.strə.tɪv/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Related to managing or organizing the affairs of an organization",
+        "example": "She works in an administrative role at the company."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["managerial", "executive", "clerical"],
+  "antonyms": ["nonadministrative", "operational"],
+  "usage_examples": [
+    "Administrative duties often include paperwork and scheduling."
+  ]
+}

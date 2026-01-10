@@ -1,0 +1,23 @@
+{
+  "word": "thing",
+  "phonetic": "/θɪŋ/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An object, idea, or entity that is not named or specified",
+        "example": "Put that thing back where it belongs."
+      },
+      {
+        "definition": "An event, activity, or situation",
+        "example": "Going to the beach was a fun thing to do."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["object", "item", "matter", "entity"],
+  "antonyms": [],
+  "usage_examples": [
+    "The best thing about the trip was the food."
+  ]
+}

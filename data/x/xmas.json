@@ -1,0 +1,19 @@
+{
+  "word": "Xmas",
+  "phonetic": "/ˈɛks.məs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A common abbreviation for Christmas, the festival celebrating the birth of Jesus Christ",
+        "example": "We decorated the tree for Xmas."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["Christmas", "Yule"],
+  "antonyms": [],
+  "usage_examples": [
+    "Many stores offer special discounts during Xmas."
+  ]
+}

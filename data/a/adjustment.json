@@ -1,0 +1,23 @@
+{
+  "word": "adjustment",
+  "phonetic": "/əˈdʒʌst.mənt/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A small change made to improve or correct something",
+        "example": "A minor adjustment fixed the problem."
+      },
+      {
+        "definition": "The process of adapting to a new situation",
+        "example": "Moving to a new city requires a period of adjustment."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["modification", "change", "adaptation"],
+  "antonyms": ["rigidity", "stability"],
+  "usage_examples": [
+    "After some adjustment, she felt comfortable in her new job."
+  ]
+}

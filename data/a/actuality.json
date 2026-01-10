@@ -1,0 +1,19 @@
+{
+  "word": "actuality",
+  "phonetic": "/ˌæk.tʃuˈæl.ə.ti/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The state of existing in reality; fact or truth",
+        "example": "The actuality of the situation was quite different from what they expected."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["reality", "fact", "truth"],
+  "antonyms": ["illusion", "fiction", "unreality"],
+  "usage_examples": [
+    "In actuality, the task was much easier than it appeared."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "word": "xylophone",
+  "phonetic": "/ˈzaɪləˌfoʊn/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A musical instrument made of wooden bars that produce sound when struck with mallets",
+        "example": "The child played a melody on the xylophone."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xylophone",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["percussion instrument"],
+  "antonyms": ["string instrument"],
+  "usage_examples": [
+    "The xylophone produces bright, clear tones."
+  ]
+}

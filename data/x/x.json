@@ -1,0 +1,23 @@
+{
+  "word": "x",
+  "phonetic": "/ɛks/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The twenty-fourth letter of the English alphabet",
+        "example": "The word ends with the letter x."
+      },
+      {
+        "definition": "A symbol used to represent an unknown quantity, especially in mathematics",
+        "example": "Solve the equation to find the value of x."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["unknown", "variable"],
+  "antonyms": [],
+  "usage_examples": [
+    "In algebra, x often represents an unknown number."
+  ]
+}

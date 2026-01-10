@@ -1,0 +1,39 @@
+{
+  "word": "taste",
+  "phonetic": "/teɪst/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The sensation of flavor perceived in the mouth",
+        "example": "The soup had a delicious taste."
+      },
+      {
+        "definition": "A person's preference or liking for something",
+        "example": "She has a taste for classical music."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To perceive the flavor of something",
+        "example": "He tasted the sauce and added more salt."
+      },
+      {
+        "definition": "To experience or sample something",
+        "example": "She tasted the excitement of city life."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "taste",
+    "past": "tasted",
+    "past_participle": "tasted",
+    "present_participle": "tasting",
+    "third_person": "tastes"
+  },
+  "synonyms": ["flavor", "savor", "sample", "try"],
+  "antonyms": ["dislike", "abstain"],
+  "usage_examples": [
+    "He tasted the wine to check its quality."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "xenophobia",
+  "phonetic": "/ˌzen.əˈfoʊ.bi.ə/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "Intense or irrational dislike or fear of people from other countries",
+        "example": "Xenophobia can lead to discrimination and social tension."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["racism", "prejudice", "intolerance"],
+  "antonyms": ["xenophilia", "tolerance", "acceptance"],
+  "usage_examples": [
+    "The government launched a campaign to combat xenophobia."
+  ]
+}

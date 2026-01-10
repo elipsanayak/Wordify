@@ -1,0 +1,23 @@
+{
+  "word": "throat",
+  "phonetic": "/θroʊt/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The passage in the neck through which food and air pass",
+        "example": "She had a sore throat."
+      },
+      {
+        "definition": "The front part of the neck",
+        "example": "He cleared his throat before speaking."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["gullet", "neck"],
+  "antonyms": [],
+  "usage_examples": [
+    "Drinking warm water can soothe the throat."
+  ]
+}

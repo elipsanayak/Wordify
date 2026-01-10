@@ -1,0 +1,19 @@
+{
+  "word": "xenon",
+  "phonetic": "/ˈziː.nɒn/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A chemical element (symbol Xe) that is a colorless, dense, odorless noble gas found in the atmosphere in trace amounts",
+        "example": "Xenon is used in high-intensity lamps and certain types of anesthesia."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["noble gas", "Xe"],
+  "antonyms": [],
+  "usage_examples": [
+    "The laboratory experimented with xenon to study its properties."
+  ]
+}

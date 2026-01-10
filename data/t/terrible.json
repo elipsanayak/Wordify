@@ -1,0 +1,23 @@
+{
+  "word": "terrible",
+  "phonetic": "/ˈter.ə.bəl/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Extremely bad or unpleasant",
+        "example": "The food at the restaurant was terrible."
+      },
+      {
+        "definition": "Causing fear, shock, or distress",
+        "example": "The storm was a terrible experience."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["awful", "horrible", "dreadful", "frightful"],
+  "antonyms": ["wonderful", "excellent", "pleasant"],
+  "usage_examples": [
+    "He made a terrible mistake that cost the company a lot."
+  ]
+}

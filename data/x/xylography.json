@@ -1,0 +1,25 @@
+{
+  "word": "xylography",
+  "phonetic": "/ˌzaɪˈlɒɡrəfi/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The art or process of engraving on wood, especially for printing",
+        "example": "Xylography was widely used before modern printing techniques."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xylography",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["wood engraving", "woodcut printing"],
+  "antonyms": ["digital printing"],
+  "usage_examples": [
+    "The artist studied traditional xylography techniques."
+  ]
+}

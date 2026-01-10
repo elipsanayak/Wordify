@@ -1,0 +1,30 @@
+{
+  "word": "abasement",
+  "phonetic": "/əˈbeɪsmənt/",
+  "part_of_speech": [
+    "noun"
+  ],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The action or fact of abasing or being abased; humiliation or degradation.",
+        "example": "The abasement of the once-proud king was complete."
+      }
+    ]
+  },
+  "synonyms": [
+    "humiliation",
+    "degradation",
+    "shame",
+    "ignominy"
+  ],
+  "antonyms": [
+    "honor",
+    "exaltation",
+    "pride",
+    "elevation"
+  ],
+  "usage_examples": [
+    "He lived in a state of abasement after the scandal."
+  ]
+}

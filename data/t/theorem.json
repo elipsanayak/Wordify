@@ -1,0 +1,19 @@
+{
+  "word": "theorem",
+  "phonetic": "/ˈθɪə.rəm/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A statement or proposition that has been proven based on previously established statements or principles",
+        "example": "Pythagoras' theorem explains the relationship between the sides of a right triangle."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["proposition", "principle", "law"],
+  "antonyms": [],
+  "usage_examples": [
+    "Mathematicians spend years proving complex theorems."
+  ]
+}

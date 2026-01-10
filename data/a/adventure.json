@@ -1,0 +1,31 @@
+{
+  "word": "adventure",
+  "phonetic": "/ədˈvɛn.tʃər/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An unusual and exciting experience or activity",
+        "example": "Their trip to the mountains was a great adventure."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To take a risk or try something unusual",
+        "example": "She ventured to adventure into unknown territory."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "adventure",
+    "past": "adventured",
+    "past_participle": "adventured",
+    "present_participle": "adventuring",
+    "third_person": "adventures"
+  },
+  "synonyms": ["journey", "exploit", "risk"],
+  "antonyms": ["routine", "safety"],
+  "usage_examples": [
+    "They set out on an adventure across the desert."
+  ]
+}

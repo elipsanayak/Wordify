@@ -1,0 +1,25 @@
+{
+  "word": "thermal",
+  "phonetic": "/ˈθɜːr.məl/",
+  "part_of_speech": ["adjective", "noun"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Relating to heat or temperature",
+        "example": "Thermal energy is used to generate electricity."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A current of warm air rising from the ground",
+        "example": "Gliders use thermals to stay aloft for long periods."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["heat-related", "warm", "hot air current"],
+  "antonyms": ["cool", "cold"],
+  "usage_examples": [
+    "The hikers wore thermal clothing to stay warm in the mountains."
+  ]
+}

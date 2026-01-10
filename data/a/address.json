@@ -1,0 +1,39 @@
+{
+  "word": "address",
+  "phonetic": "/əˈdrɛs/ , /ˈæd.rɛs/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To speak to someone formally",
+        "example": "The manager addressed the staff."
+      },
+      {
+        "definition": "To deal with or give attention to a problem",
+        "example": "We must address the issue immediately."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "The location details of a place or person",
+        "example": "Please write your address clearly."
+      },
+      {
+        "definition": "A formal speech",
+        "example": "The president gave an inspiring address."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "address",
+    "past": "addressed",
+    "past_participle": "addressed",
+    "present_participle": "addressing",
+    "third_person": "addresses"
+  },
+  "synonyms": ["speak to", "deal with", "location"],
+  "antonyms": ["ignore", "neglect"],
+  "usage_examples": [
+    "She addressed the audience with confidence."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "word": "term",
+  "phonetic": "/tɜːrm/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A word or phrase used to describe a thing or express a concept",
+        "example": "The term 'photosynthesis' is commonly used in biology."
+      },
+      {
+        "definition": "A fixed period of time during which something lasts",
+        "example": "The president served a four-year term."
+      },
+      {
+        "definition": "Conditions or provisions in an agreement or contract",
+        "example": "The terms of the lease were clearly stated."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To express in specific words or terms",
+        "example": "She termed the experience as life-changing."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "term",
+    "past": "termed",
+    "past_participle": "termed",
+    "present_participle": "terming",
+    "third_person": "terms"
+  },
+  "synonyms": ["word", "period", "condition", "call"],
+  "antonyms": ["generalization", "unlimited"],
+  "usage_examples": [
+    "The contract was agreed upon under strict terms."
+  ]
+}

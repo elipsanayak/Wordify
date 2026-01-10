@@ -1,0 +1,29 @@
+{
+  "word": "adapt",
+  "phonetic": "/əˈdæpt/",
+  "part_of_speech": ["verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To change or adjust to new conditions",
+        "example": "Animals adapt to their environment."
+      },
+      {
+        "definition": "To modify something for a new use or purpose",
+        "example": "The novel was adapted into a movie."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "adapt",
+    "past": "adapted",
+    "past_participle": "adapted",
+    "present_participle": "adapting",
+    "third_person": "adapts"
+  },
+  "synonyms": ["adjust", "modify", "acclimate"],
+  "antonyms": ["resist", "oppose"],
+  "usage_examples": [
+    "She quickly adapted to the new work environment."
+  ]
+}

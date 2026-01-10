@@ -1,0 +1,23 @@
+{
+  "word": "thesis",
+  "phonetic": "/ˈθiː.sɪs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A long piece of writing presenting original research, usually for an academic degree",
+        "example": "She submitted her thesis at the end of the semester."
+      },
+      {
+        "definition": "A statement or theory that is put forward to be proved",
+        "example": "The author’s main thesis is clearly explained in the introduction."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dissertation", "argument", "proposition"],
+  "antonyms": ["antithesis"],
+  "usage_examples": [
+    "His thesis focused on renewable energy technologies."
+  ]
+}

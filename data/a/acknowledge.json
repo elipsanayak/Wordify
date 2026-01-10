@@ -1,0 +1,49 @@
+{
+  "word": "acknowledge",
+  "phonetic": "/əkˈnɑːlɪdʒ/",
+  "part_of_speech": [
+    "verb"
+  ],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To accept or admit the existence or truth of.",
+        "example": "She acknowledged that she might have been wrong."
+      },
+      {
+        "definition": "To recognize the fact or importance or quality of.",
+        "example": "The art world has begun to acknowledge his genius."
+      },
+      {
+        "definition": "To show that one has noticed or recognized (someone) by making a gesture or greeting.",
+        "example": "He acknowledged my presence with a nod."
+      },
+      {
+        "definition": "To confirm (receipt of something).",
+        "example": "Please acknowledge receipt of this letter."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "acknowledge",
+    "past": "acknowledged",
+    "past_participle": "acknowledged",
+    "present_participle": "acknowledging",
+    "third_person": "acknowledges"
+  },
+  "synonyms": [
+    "admit",
+    "accept",
+    "grant",
+    "recognize",
+    "confess"
+  ],
+  "antonyms": [
+    "deny",
+    "reject",
+    "ignore"
+  ],
+  "usage_examples": [
+    "The government acknowledged the need for reform."
+  ]
+}

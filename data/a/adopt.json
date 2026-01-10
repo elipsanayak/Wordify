@@ -1,0 +1,29 @@
+{
+  "word": "adopt",
+  "phonetic": "/əˈdɒpt/",
+  "part_of_speech": ["verb"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To take legal responsibility for a child",
+        "example": "They decided to adopt a child from the orphanage."
+      },
+      {
+        "definition": "To choose or start using an idea, method, or practice",
+        "example": "The company adopted a new policy."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "adopt",
+    "past": "adopted",
+    "past_participle": "adopted",
+    "present_participle": "adopting",
+    "third_person": "adopts"
+  },
+  "synonyms": ["accept", "embrace", "take in"],
+  "antonyms": ["reject", "abandon"],
+  "usage_examples": [
+    "Many organizations adopt modern technologies to improve efficiency."
+  ]
+}

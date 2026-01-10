@@ -1,0 +1,39 @@
+{
+  "word": "terrace",
+  "phonetic": "/ˈter.əs/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A flat, raised area or platform, often outside a building",
+        "example": "We had breakfast on the terrace overlooking the garden."
+      },
+      {
+        "definition": "A row of houses joined together in a line",
+        "example": "They live in a terrace near the city center."
+      },
+      {
+        "definition": "A level step built on the side of a hill for farming",
+        "example": "Rice terraces are common in mountainous regions."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To build terraces on sloped land for cultivation",
+        "example": "The farmers terraced the hillside to grow crops."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "terrace",
+    "past": "terraced",
+    "past_participle": "terraced",
+    "present_participle": "terracing",
+    "third_person": "terraces"
+  },
+  "synonyms": ["patio", "platform", "row of houses", "step"],
+  "antonyms": [],
+  "usage_examples": [
+    "They enjoyed the sunset from the terrace of their home."
+  ]
+}

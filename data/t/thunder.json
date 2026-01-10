@@ -1,0 +1,35 @@
+{
+  "word": "thunder",
+  "phonetic": "/ˈθʌn.dər/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The loud noise that follows a flash of lightning during a storm",
+        "example": "The thunder frightened the children."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a loud, deep sound",
+        "example": "The clouds thundered in the distance."
+      },
+      {
+        "definition": "To move or speak with great force or noise",
+        "example": "He thundered down the stairs in anger."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "thunder",
+    "past": "thundered",
+    "past_participle": "thundered",
+    "present_participle": "thundering",
+    "third_person": "thunders"
+  },
+  "synonyms": ["rumble", "roar", "boom"],
+  "antonyms": ["silence", "quiet"],
+  "usage_examples": [
+    "Thunder echoed across the valley during the storm."
+  ]
+}

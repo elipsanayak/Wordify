@@ -1,0 +1,19 @@
+{
+  "word": "xchromosome",
+  "phonetic": "/ˈɛks ˈkroʊ.məˌsoʊm/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "One of the two sex chromosomes in humans and many animals, typically associated with female biological sex",
+        "example": "Humans usually have two X chromosomes in females."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["sex chromosome"],
+  "antonyms": ["ychromosome"],
+  "usage_examples": [
+    "The X chromosome carries many genes unrelated to sex determination."
+  ]
+}

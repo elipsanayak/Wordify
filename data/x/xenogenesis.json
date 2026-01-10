@@ -1,0 +1,23 @@
+{
+  "word": "xenogenesis",
+  "phonetic": "/ˌzɛn.oʊˈdʒɛn.ə.sɪs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The production of offspring that are very different from their parents; generation of strange or foreign forms",
+        "example": "The novel explores themes of xenogenesis and human evolution."
+      },
+      {
+        "definition": "The supposed formation of new organisms from entirely different parents or sources",
+        "example": "Early biological theories once included ideas of xenogenesis."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["foreign generation", "aberrant reproduction"],
+  "antonyms": ["normal reproduction", "inheritance"],
+  "usage_examples": [
+    "Xenogenesis is often discussed in science fiction and theoretical biology."
+  ]
+}

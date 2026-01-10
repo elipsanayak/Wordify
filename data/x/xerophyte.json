@@ -1,0 +1,19 @@
+{
+  "word": "xerophyte",
+  "phonetic": "/ˈzɪr.ə.faɪt/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A plant adapted to survive in dry or arid conditions",
+        "example": "Cacti and succulents are common examples of xerophytes."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["desert plant", "drought-resistant plant", "arid-adapted plant"],
+  "antonyms": ["hydrophyte", "moisture-loving plant"],
+  "usage_examples": [
+    "Xerophytes have specialized structures to conserve water in arid climates."
+  ]
+}

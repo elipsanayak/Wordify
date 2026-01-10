@@ -1,0 +1,39 @@
+{
+  "word": "advance",
+  "phonetic": "/ədˈvæns/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To move forward or make progress",
+        "example": "The army advanced toward the border."
+      },
+      {
+        "definition": "To develop or improve",
+        "example": "Technology continues to advance rapidly."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Progress or improvement",
+        "example": "There has been a great advance in medical science."
+      },
+      {
+        "definition": "Money paid before it is due",
+        "example": "He received an advance on his salary."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "advance",
+    "past": "advanced",
+    "past_participle": "advanced",
+    "present_participle": "advancing",
+    "third_person": "advances"
+  },
+  "synonyms": ["progress", "proceed", "improvement"],
+  "antonyms": ["retreat", "decline"],
+  "usage_examples": [
+    "The company plans to advance its research efforts."
+  ]
+}

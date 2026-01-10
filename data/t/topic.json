@@ -1,0 +1,19 @@
+{
+  "word": "topic",
+  "phonetic": "/ˈtɒp.ɪk/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A subject that is discussed, written about, or studied",
+        "example": "The main topic of the lecture was artificial intelligence."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["subject", "theme", "issue", "matter"],
+  "antonyms": [],
+  "usage_examples": [
+    "Please choose a topic for your presentation."
+  ]
+}

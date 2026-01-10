@@ -1,0 +1,19 @@
+{
+  "word": "thermometer",
+  "phonetic": "/θərˈmɒm.ɪ.tər/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An instrument used to measure temperature",
+        "example": "The doctor used a thermometer to check her fever."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["temperature gauge", "temperature meter"],
+  "antonyms": [],
+  "usage_examples": [
+    "He placed the thermometer in the water to measure its temperature."
+  ]
+}

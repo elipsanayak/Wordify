@@ -1,0 +1,35 @@
+{
+  "word": "tank",
+  "phonetic": "/tæŋk/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A large container for holding liquid or gas",
+        "example": "The fish live in a large tank."
+      },
+      {
+        "definition": "An armored fighting vehicle",
+        "example": "The army deployed tanks on the battlefield."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To fail completely or perform poorly",
+        "example": "The team's performance tanked in the second half."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tank",
+    "past": "tanked",
+    "past_participle": "tanked",
+    "present_participle": "tanking",
+    "third_person": "tanks"
+  },
+  "synonyms": ["container", "vessel", "armored vehicle", "fail"],
+  "antonyms": ["succeed"],
+  "usage_examples": [
+    "The company tanked after the new product failed."
+  ]
+}

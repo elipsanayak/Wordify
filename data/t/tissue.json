@@ -1,0 +1,23 @@
+{
+  "word": "tissue",
+  "phonetic": "/ˈtɪʃ.uː/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A soft, thin paper used for wiping or cleaning",
+        "example": "She used a tissue to wipe her nose."
+      },
+      {
+        "definition": "A group of similar cells that perform a specific function in the body",
+        "example": "Muscle tissue helps the body move."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["paper", "cell group", "fabric"],
+  "antonyms": [],
+  "usage_examples": [
+    "The doctor examined the damaged tissue under a microscope."
+  ]
+}

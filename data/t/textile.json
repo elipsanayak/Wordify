@@ -1,0 +1,25 @@
+{
+  "word": "textile",
+  "phonetic": "/ˈtɛk.staɪl/",
+  "part_of_speech": ["noun", "adjective"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A type of cloth or woven fabric",
+        "example": "The factory produces high-quality textiles."
+      }
+    ],
+    "adjective": [
+      {
+        "definition": "Related to cloth or fabric",
+        "example": "Textile industries are important for the economy."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["fabric", "cloth", "material"],
+  "antonyms": [],
+  "usage_examples": [
+    "She bought textile samples for her new dress designs."
+  ]
+}

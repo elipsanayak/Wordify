@@ -1,0 +1,19 @@
+{
+  "word": "xerophagy",
+  "phonetic": "/ˌzɪr.əˈfædʒ.i/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The practice of eating dry or plain food, often for religious fasting or ascetic purposes",
+        "example": "During Lent, some observe xerophagy by consuming only simple, dry meals."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["abstinence diet", "fasting food practice"],
+  "antonyms": ["rich diet", "feasting"],
+  "usage_examples": [
+    "Monks practiced xerophagy as a form of spiritual discipline."
+  ]
+}

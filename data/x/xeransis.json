@@ -1,0 +1,19 @@
+{
+  "word": "xeransis",
+  "phonetic": "/ˈzɪr.æn.sɪs/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "Abnormal dryness of a part of the body, especially the skin or mucous membranes",
+        "example": "Xeransis can cause itching and discomfort if left untreated."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dryness", "dehydration", "xerosis"],
+  "antonyms": ["moisture", "hydration"],
+  "usage_examples": [
+    "Patients with xeransis are advised to use moisturizing creams regularly."
+  ]
+}

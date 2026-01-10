@@ -1,0 +1,31 @@
+{
+  "word": "thank",
+  "phonetic": "/θæŋk/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To express gratitude to someone",
+        "example": "I want to thank you for your help."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "An expression of gratitude",
+        "example": "He gave his thanks to the volunteers."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "thank",
+    "past": "thanked",
+    "past_participle": "thanked",
+    "present_participle": "thanking",
+    "third_person": "thanks"
+  },
+  "synonyms": ["appreciate", "acknowledge", "gratefulness"],
+  "antonyms": ["ignore", "disregard"],
+  "usage_examples": [
+    "She thanked everyone who helped her move."
+  ]
+}

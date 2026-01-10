@@ -1,0 +1,19 @@
+{
+  "word": "xeroderma",
+  "phonetic": "/ˌzɪr.oʊˈdɜːr.mə/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A medical condition characterized by extremely dry skin",
+        "example": "Xeroderma can cause itching, scaling, and cracking of the skin."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dry skin", "xerosis", "xerasia"],
+  "antonyms": ["moist skin", "hydration"],
+  "usage_examples": [
+    "Patients with xeroderma are advised to use emollients regularly."
+  ]
+}

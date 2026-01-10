@@ -1,0 +1,43 @@
+{
+  "word": "tab",
+  "phonetic": "/tæb/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A small flap, label, or projection attached to something",
+        "example": "Pull the tab to open the can."
+      },
+      {
+        "definition": "A bill or total cost, especially in a restaurant or bar",
+        "example": "Please put the drinks on my tab."
+      },
+      {
+        "definition": "A section of a user interface that allows switching between views",
+        "example": "Click the tab to open a new page."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To label or identify with a tag",
+        "example": "The files were tabbed for easy reference."
+      },
+      {
+        "definition": "To keep a record of costs or charges",
+        "example": "The bartender tabbed the order."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tab",
+    "past": "tabbed",
+    "past_participle": "tabbed",
+    "present_participle": "tabbing",
+    "third_person": "tabs"
+  },
+  "synonyms": ["label", "bill", "tag"],
+  "antonyms": ["remove", "untag"],
+  "usage_examples": [
+    "He opened a new tab in the browser."
+  ]
+}

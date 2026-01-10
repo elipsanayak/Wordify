@@ -1,0 +1,29 @@
+{
+  "word": "tangent",
+  "phonetic": "/ˈtæn.dʒənt/",
+  "part_of_speech": ["noun", "adjective"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A completely different line of thought or action",
+        "example": "He went off on a tangent during the meeting."
+      },
+      {
+        "definition": "A straight line that touches a curve at a single point without crossing it",
+        "example": "The tangent to the circle was drawn carefully."
+      }
+    ],
+    "adjective": [
+      {
+        "definition": "Touching at a single point; hardly relevant or digressing",
+        "example": "Her comment was only tangent to the main topic."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["digression", "aside", "touching"],
+  "antonyms": ["direct", "relevant"],
+  "usage_examples": [
+    "He often goes off on tangents while telling a story."
+  ]
+}

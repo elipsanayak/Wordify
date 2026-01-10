@@ -1,0 +1,45 @@
+{
+  "word": "tender",
+  "phonetic": "/ˈten.dər/",
+  "part_of_speech": ["adjective", "noun", "verb"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Showing gentleness, kindness, or affection",
+        "example": "She gave him a tender smile."
+      },
+      {
+        "definition": "Soft or easily chewed or cut",
+        "example": "The steak was tender and juicy."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A formal offer, usually in business or law",
+        "example": "They submitted a tender for the construction project."
+      },
+      {
+        "definition": "A small boat used to transport people or supplies to a larger vessel",
+        "example": "The passengers were taken ashore in the tender."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To offer formally",
+        "example": "He tendered his resignation to the company."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tender",
+    "past": "tendered",
+    "past_participle": "tendered",
+    "present_participle": "tendering",
+    "third_person": "tenders"
+  },
+  "synonyms": ["gentle", "soft", "offer", "submit"],
+  "antonyms": ["harsh", "rough", "withdraw"],
+  "usage_examples": [
+    "She tendered her help to anyone in need."
+  ]
+}

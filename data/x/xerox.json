@@ -1,0 +1,31 @@
+{
+  "word": "xerox",
+  "phonetic": "/ˈzɪə.rɒks/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A brand name for a photocopy or the machine that produces photocopies",
+        "example": "He made a xerox of the document for his records."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To make a photocopy of a document or image",
+        "example": "Please xerox these papers before the meeting."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xerox",
+    "past": "xeroxed",
+    "past_participle": "xeroxed",
+    "present_participle": "xeroxing",
+    "third_person": "xeroxes"
+  },
+  "synonyms": ["photocopy", "duplicate", "copy"],
+  "antonyms": [],
+  "usage_examples": [
+    "She xeroxed the contract and gave a copy to each participant."
+  ]
+}

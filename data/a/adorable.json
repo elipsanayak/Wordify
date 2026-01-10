@@ -1,0 +1,19 @@
+{
+  "word": "adorable",
+  "phonetic": "/əˈdɔː.rə.bəl/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Very cute or lovable",
+        "example": "The puppy looked absolutely adorable."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["lovely", "cute", "charming"],
+  "antonyms": ["unattractive", "ugly"],
+  "usage_examples": [
+    "Her adorable smile brightened everyone's day."
+  ]
+}

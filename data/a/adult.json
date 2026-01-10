@@ -1,0 +1,25 @@
+{
+  "word": "adult",
+  "phonetic": "/əˈdʌlt/",
+  "part_of_speech": ["noun", "adjective"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A fully grown or mature person",
+        "example": "She became an adult at the age of eighteen."
+      }
+    ],
+    "adjective": [
+      {
+        "definition": "Intended for or suitable only for mature people",
+        "example": "The movie contains adult themes."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["grown-up", "mature person"],
+  "antonyms": ["child", "minor"],
+  "usage_examples": [
+    "As an adult, he takes responsibility for his actions."
+  ]
+}

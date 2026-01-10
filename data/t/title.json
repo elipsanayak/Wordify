@@ -1,0 +1,35 @@
+{
+  "word": "title",
+  "phonetic": "/ˈtaɪ.təl/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The name of a book, movie, article, or other work",
+        "example": "The title of the book is written on the cover."
+      },
+      {
+        "definition": "A formal name or rank given to a person",
+        "example": "She earned the title of professor."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To give a name or title to something",
+        "example": "He titled his painting after his hometown."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "title",
+    "past": "titled",
+    "past_participle": "titled",
+    "present_participle": "titling",
+    "third_person": "titles"
+  },
+  "synonyms": ["heading", "name", "designation", "rank"],
+  "antonyms": [],
+  "usage_examples": [
+    "The article was titled carefully to attract readers."
+  ]
+}

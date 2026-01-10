@@ -1,0 +1,43 @@
+{
+  "word": "tap",
+  "phonetic": "/tæp/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To strike lightly or gently",
+        "example": "She tapped on the door before entering."
+      },
+      {
+        "definition": "To draw liquid from a container",
+        "example": "He tapped the keg of beer at the party."
+      },
+      {
+        "definition": "To make use of a resource or source",
+        "example": "The company tapped into new markets."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "A device for controlling the flow of liquid",
+        "example": "Turn on the tap to get some water."
+      },
+      {
+        "definition": "A light touch or hit",
+        "example": "He gave her shoulder a gentle tap."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tap",
+    "past": "tapped",
+    "past_participle": "tapped",
+    "present_participle": "tapping",
+    "third_person": "taps"
+  },
+  "synonyms": ["knock", "strike", "draw", "access"],
+  "antonyms": ["ignore", "release"],
+  "usage_examples": [
+    "She tapped the screen to open the app."
+  ]
+}

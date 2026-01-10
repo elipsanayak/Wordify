@@ -1,0 +1,31 @@
+{
+  "word": "tattoo",
+  "phonetic": "/ˈtæt.uː/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A permanent design made on the skin by injecting ink",
+        "example": "She got a tattoo of a rose on her arm."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To mark the skin permanently with ink",
+        "example": "He decided to tattoo his favorite quote on his wrist."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tattoo",
+    "past": "tattooed",
+    "past_participle": "tattooed",
+    "present_participle": "tattooing",
+    "third_person": "tattoos"
+  },
+  "synonyms": ["ink", "body art", "mark"],
+  "antonyms": [],
+  "usage_examples": [
+    "Many people choose to tattoo meaningful symbols on their bodies."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "word": "xylem",
+  "phonetic": "/ˈzaɪlɛm/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The tissue in plants that carries water and minerals from the roots to the rest of the plant",
+        "example": "Xylem transports water upward in plants."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xylem",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["vascular tissue"],
+  "antonyms": ["phloem"],
+  "usage_examples": [
+    "Damage to the xylem can affect a plant’s water supply."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "after",
+  "phonetic": "/ˈɑːf.tər/",
+  "part_of_speech": ["preposition", "conjunction", "adverb"],
+  "meanings": {
+    "preposition": [
+      {
+        "definition": "Later than a particular time or event",
+        "example": "We will meet after dinner."
+      }
+    ],
+    "conjunction": [
+      {
+        "definition": "At a time following an event",
+        "example": "After he finished his work, he went home."
+      }
+    ],
+    "adverb": [
+      {
+        "definition": "At a later time",
+        "example": "She arrived shortly after."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["following", "later"],
+  "antonyms": ["before"],
+  "usage_examples": [
+    "After the exam, everyone felt relieved."
+  ]
+}

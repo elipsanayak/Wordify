@@ -1,0 +1,19 @@
+{
+  "word": "xenogamy",
+  "phonetic": "/zɪˈnɒɡ.ə.mi/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The fertilization of a plant by pollen from a different individual of the same species",
+        "example": "Xenogamy increases genetic variation in plants."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["cross-pollination", "outcrossing"],
+  "antonyms": ["self-pollination", "autogamy"],
+  "usage_examples": [
+    "Many flowering plants rely on insects to achieve xenogamy."
+  ]
+}

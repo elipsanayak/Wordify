@@ -1,0 +1,25 @@
+{
+  "word": "xerothermic",
+  "phonetic": "/ˌzɪərəˈθɜːrmɪk/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Relating to or characterized by hot and dry environmental conditions",
+        "example": "Xerothermic climates support drought-resistant plants."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xerothermic",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["arid", "dry", "hot"],
+  "antonyms": ["humid", "moist", "wet"],
+  "usage_examples": [
+    "Many shrubs are adapted to xerothermic environments."
+  ]
+}

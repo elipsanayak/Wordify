@@ -1,0 +1,23 @@
+{
+  "word": "technic",
+  "phonetic": "/ˈtek.nɪk/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A method or technique for performing a specific task",
+        "example": "The artist used a new technic to create the painting."
+      },
+      {
+        "definition": "A skillful or systematic way of doing something",
+        "example": "Mastery of this technic requires practice."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["technique", "method", "skill", "procedure"],
+  "antonyms": ["amateurism", "improvisation"],
+  "usage_examples": [
+    "He developed a unique technic for solving complex problems."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "xerophilous",
+  "phonetic": "/ˌzɪr.əˈfɪl.əs/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Adapted to or thriving in dry, arid conditions",
+        "example": "Cacti are xerophilous plants that survive in deserts."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["drought-resistant", "arid-loving", "desert-adapted"],
+  "antonyms": ["hydrophilous", "moisture-loving"],
+  "usage_examples": [
+    "Xerophilous species are common in regions with minimal rainfall."
+  ]
+}

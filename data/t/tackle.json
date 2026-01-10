@@ -1,0 +1,35 @@
+{
+  "word": "tackle",
+  "phonetic": "/ˈtæk.əl/",
+  "part_of_speech": ["verb", "noun"],
+  "meanings": {
+    "verb": [
+      {
+        "definition": "To confront or deal with a problem or challenge",
+        "example": "We need to tackle the issue of climate change."
+      },
+      {
+        "definition": "To bring someone to the ground in sports like football",
+        "example": "He tackled the opponent during the game."
+      }
+    ],
+    "noun": [
+      {
+        "definition": "Equipment used for a specific purpose, especially in sports or fishing",
+        "example": "He bought new fishing tackle for the trip."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tackle",
+    "past": "tackled",
+    "past_participle": "tackled",
+    "present_participle": "tackling",
+    "third_person": "tackles"
+  },
+  "synonyms": ["confront", "address", "seize"],
+  "antonyms": ["avoid", "ignore"],
+  "usage_examples": [
+    "The government is tackling the problem of unemployment."
+  ]
+}

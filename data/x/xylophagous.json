@@ -1,0 +1,25 @@
+{
+  "word": "xylophagous",
+  "phonetic": "/ˌzaɪləˈfæɡəs/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Feeding on or eating wood",
+        "example": "Termites are xylophagous insects."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xylophagous",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["wood-eating"],
+  "antonyms": ["herbivorous", "carnivorous"],
+  "usage_examples": [
+    "Xylophagous organisms play a role in breaking down dead trees."
+  ]
+}

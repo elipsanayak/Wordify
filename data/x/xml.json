@@ -1,0 +1,25 @@
+{
+  "word": "xml",
+  "phonetic": "/ˌɛksˌɛmˈɛl/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A markup language used to store and transport data in a structured and readable format",
+        "example": "The configuration file is written in XML."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xml",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["markup language", "data format"],
+  "antonyms": ["binary format"],
+  "usage_examples": [
+    "XML is widely used for data exchange between systems."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "word": "xerotes",
+  "phonetic": "/ˈzɪr.oʊ.tiːz/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A plant or organism adapted to dry or arid conditions",
+        "example": "Xerotes are often found in deserts and other low-moisture environments."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["xerophyte", "drought-resistant plant", "arid-adapted plant"],
+  "antonyms": ["hydrophyte", "moisture-loving plant"],
+  "usage_examples": [
+    "Many xerotes have thick leaves to retain water in arid climates."
+  ]
+}

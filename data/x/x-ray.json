@@ -1,0 +1,31 @@
+{
+  "word": "x-ray",
+  "phonetic": "/ˈɛksˌreɪ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A type of radiation used to see inside the body or objects, especially for medical imaging",
+        "example": "The doctor examined the fracture using an X-ray."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To examine something using X-rays",
+        "example": "The technician will x-ray the luggage."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "x-ray",
+    "past": "x-rayed",
+    "past_participle": "x-rayed",
+    "present_participle": "x-raying",
+    "third_person": "x-rays"
+  },
+  "synonyms": ["radiograph", "scan"],
+  "antonyms": ["conceal"],
+  "usage_examples": [
+    "She needs an X-ray to check for bone damage."
+  ]
+}

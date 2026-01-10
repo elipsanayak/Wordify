@@ -1,0 +1,39 @@
+{
+  "word": "tag",
+  "phonetic": "/tæɡ/",
+  "part_of_speech": ["noun", "verb"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A label or marker attached to identify something",
+        "example": "The price tag was missing."
+      },
+      {
+        "definition": "A keyword used to classify or organize content",
+        "example": "Add relevant tags to the post."
+      }
+    ],
+    "verb": [
+      {
+        "definition": "To attach a label or marker to something",
+        "example": "Please tag your luggage."
+      },
+      {
+        "definition": "To mark or identify digitally",
+        "example": "She tagged her friend in the photo."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "tag",
+    "past": "tagged",
+    "past_participle": "tagged",
+    "present_participle": "tagging",
+    "third_person": "tags"
+  },
+  "synonyms": ["label", "mark", "identify"],
+  "antonyms": ["remove", "untag"],
+  "usage_examples": [
+    "Don't forget to tag the files correctly."
+  ]
+}

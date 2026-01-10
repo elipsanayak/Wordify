@@ -1,0 +1,19 @@
+{
+  "word": "xenomania",
+  "phonetic": "/ˌziː.nəˈmeɪ.ni.ə/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "An excessive admiration for or attraction to foreign cultures, people, or things",
+        "example": "His xenomania led him to prefer foreign products over local ones."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["foreignism", "cosmopolitanism"],
+  "antonyms": ["xenophobia", "nationalism"],
+  "usage_examples": [
+    "The artist’s work reflected a strong xenomania."
+  ]
+}

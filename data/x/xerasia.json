@@ -1,0 +1,19 @@
+{
+  "word": "xerasia",
+  "phonetic": "/zɪˈreɪ.ʒə/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "The condition of extreme dryness of the skin or body tissues",
+        "example": "Xerasia is common in people living in arid climates."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["dryness", "xerosis", "dehydration"],
+  "antonyms": ["moisture", "hydration"],
+  "usage_examples": [
+    "Applying moisturizing lotion helps alleviate xerasia."
+  ]
+}

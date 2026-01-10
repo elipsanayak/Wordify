@@ -1,0 +1,19 @@
+{
+  "word": "adverb",
+  "phonetic": "/ˈæd.vɜːrb/",
+  "part_of_speech": ["noun"],
+  "meanings": {
+    "noun": [
+      {
+        "definition": "A word that describes or modifies a verb, adjective, or another adverb",
+        "example": "In the sentence, 'She runs quickly,' the word 'quickly' is an adverb."
+      }
+    ]
+  },
+  "tense_forms": null,
+  "synonyms": ["modifier"],
+  "antonyms": [],
+  "usage_examples": [
+    "Adverbs often answer questions like how, when, or where."
+  ]
+}

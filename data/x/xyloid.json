@@ -1,0 +1,25 @@
+{
+  "word": "xyloid",
+  "phonetic": "/ˈzaɪlɔɪd/",
+  "part_of_speech": ["adjective"],
+  "meanings": {
+    "adjective": [
+      {
+        "definition": "Resembling or having the nature of wood",
+        "example": "The sculpture had a xyloid texture."
+      }
+    ]
+  },
+  "tense_forms": {
+    "base": "xyloid",
+    "past": null,
+    "past_participle": null,
+    "present_participle": null,
+    "third_person": null
+  },
+  "synonyms": ["woody", "wood-like"],
+  "antonyms": ["metallic", "plastic"],
+  "usage_examples": [
+    "Xyloid materials were used in early industrial designs."
+  ]
+}
